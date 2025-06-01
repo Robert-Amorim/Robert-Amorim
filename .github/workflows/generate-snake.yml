@@ -2,24 +2,29 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # executa todos os dias à meia-noite (UTC)
+    - cron: "0 0 * * *"  # executa todos os dias à meia-noite UTC
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # <-- ESSENCIAL para dar push
+
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Generate GitHub contribution grid snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Robert-Amorim
-          outputs: |
-            ./github-snake.svg
+          svg_out_path: dist/github-snake.svg
 
       - name: Push to GitHub Pages branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: .
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
