@@ -87,10 +87,9 @@ Atualmente desenvolvo projetos que impactam **educação, igrejas e ONGs**, com 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Coding animation" />
-  <br />
-  <b>Construindo o futuro com linhas de código...</b>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=36BCF7&center=true&vCenter=true&width=420&lines=const+robert+%3D+%7Bcode%3A+%22fullstack%22%7D;Tech+%7C+Inovação+%7C+Evangelização+Digital;Codando+com+propósito+todos+os+dias...;Obrigado+por+visitar+meu+perfil!+👋" alt="Animated Footer Typing" />
 </p>
+
 
 
 
