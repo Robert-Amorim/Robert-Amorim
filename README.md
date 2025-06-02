@@ -87,8 +87,11 @@ Atualmente desenvolvo projetos que impactam **educação, igrejas e ONGs**, com 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=36BCF7&center=true&vCenter=true&width=420&lines=const+robert+%3D+%7Bcode%3A+%22fullstack%22%7D;Tech+%7C+Inovação+%7C+Evangelização+Digital;Codando+com+propósito+todos+os+dias...;Obrigado+por+visitar+meu+perfil!+👋" alt="Animated Footer Typing" />
+  <img src="https://raw.githubusercontent.com/robertamorim/assets/main/energy-bar.gif" width="280" alt="Energia carregando" />
+  <br />
+  <b>Carregando ideias... otimizando soluções... 🚀</b>
 </p>
+
 
 
 
