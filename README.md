@@ -87,6 +87,7 @@ Atualmente desenvolvo projetos que impactam **educação, igrejas e ONGs**, com 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=100&section=footer&text=Build%20with%20💙%20by%20Robert%20Amorim&fontColor=white&fontSize=18&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=2E3440&height=120&section=footer&text=🧠%20Tech%20Driven%20Developer%20|%20Open%20for%20Innovation&fontColor=fff&fontSize=16" />
 </p>
+
 
