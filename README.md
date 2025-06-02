@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Robert Amorim</h1>
+<h1 align="center">🚀 Robert Amorim</h1>
 
 <p align="center">
   <b>Full Stack & Mobile Developer</b><br>
@@ -9,32 +9,32 @@
   <a href="https://www.linkedin.com/in/robert-amorim/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:robert.seuemail@email.com">
+  <a href="mailto:robertamorimbot@email.com">
     <img src="https://img.shields.io/badge/Email-contato-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
 
 ---
 
-### 🚀 Sobre Mim
+### 🧠 Sobre Mim
 
 Sou um desenvolvedor apaixonado por criar soluções que unem performance, segurança e usabilidade. Trabalho com tecnologias modernas como **React**, **Next.js**, **Node.js**, **NestJS**, **Prisma** e **React Native**, construindo desde APIs escaláveis até aplicações responsivas e sistemas inteligentes.
 
-Atualmente desenvolvo projetos que impactam **educação, igrejas e ONGs**, com integração de **WhatsApp API**, **gateways de pagamento**, e **sistemas de agendamento avançados**.
+Atualmente desenvolvo projetos que impactam **educação, igrejas e ONGs**, com integração de **WhatsApp API**, **gateways de pagamento** e **sistemas de agendamento inteligentes**.
 
-> "Código limpo, propósito claro, impacto real."
+> _"Código limpo, propósito claro, impacto real."_
 
 ---
 
-### 🛠️ Tech Stack
+### ⚙️ Tech Stack
 
-#### 💻 Backend
+#### 🖥️ Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
 
-#### 🖥 Frontend
+#### 🌐 Frontend
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
@@ -53,7 +53,7 @@ Atualmente desenvolvo projetos que impactam **educação, igrejas e ONGs**, com 
 
 ---
 
-### 🐍 Snake animation
+### 🐍 Snake Animation
 
 <p align="center">
   <picture>
@@ -78,11 +78,11 @@ Atualmente desenvolvo projetos que impactam **educação, igrejas e ONGs**, com 
 
 ---
 
-### 📫 Contato
+### 📬 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/robert-amorim/)
-- 📬 Email: robertamorimbot@email.com
-- 🌐 Portfólio: *em breve...*
+- 📧 Email: robertamorimbot@email.com
+- 🌍 Portfólio: *em breve...*
 
 ---
 
