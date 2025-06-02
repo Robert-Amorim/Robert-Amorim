@@ -81,7 +81,7 @@ Atualmente desenvolvo projetos que impactam **educação, igrejas e ONGs**, com 
 ### 📫 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/robert-amorim/)
-- 📬 Email: robert.seuemail@email.com
+- 📬 Email: robertamorimbot@email.com
 - 🌐 Portfólio: *em breve...*
 
 ---
