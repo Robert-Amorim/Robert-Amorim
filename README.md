@@ -53,11 +53,12 @@ Atualmente desenvolvo projetos que impactam **educação, igrejas e ONGs**, com 
 
 ---
 
-### 🔥 Snake animation
+### 🐍 Snake animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Robert-Amorim/Robert-Amorim/output/github-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Robert-Amorim/Robert-Amorim/output/github-snake.svg" alt="Snake animation" />
 </p>
+
 
 ---
 
