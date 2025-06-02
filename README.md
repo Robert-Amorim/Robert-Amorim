@@ -87,7 +87,10 @@ Atualmente desenvolvo projetos que impactam **educação, igrejas e ONGs**, com 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=2E3440&height=120&section=footer&text=🧠%20Tech%20Driven%20Developer%20|%20Open%20for%20Innovation&fontColor=fff&fontSize=16" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Coding animation" />
+  <br />
+  <b>Construindo o futuro com linhas de código...</b>
 </p>
+
 
 
