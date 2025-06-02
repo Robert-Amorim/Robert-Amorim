@@ -19,7 +19,6 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Robert-Amorim
-          args: -grid-size 50x8
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
