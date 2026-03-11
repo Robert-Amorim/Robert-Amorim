@@ -91,8 +91,3 @@ Atualmente desenvolvo projetos que impactam **educação, igrejas e ONGs**, com 
   <br />
   <b>Carregando ideias... otimizando soluções... 🚀</b>
 </p>
-
-
-
-
-
